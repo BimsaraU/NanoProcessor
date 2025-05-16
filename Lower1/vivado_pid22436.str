@@ -1,0 +1,167 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 22436
+License: Customer
+
+Current time: 	Fri May 16 08:39:20 IST 2025
+Time zone: 	India Standard Time (Asia/Colombo)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 16
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 129 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	ASUS TUF
+User home directory: C:/Users/ASUS TUF
+User working directory: C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.2
+RDI_DATADIR: C:/Xilinx/Vivado/2018.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/ASUS TUF/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/ASUS TUF/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/ASUS TUF/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1/vivado.log
+Vivado journal file location: 	C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1/vivado.jou
+Engine tmp dir: 	C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1/.Xil/Vivado-22436-Bimsara
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.2
+XILINX_SDK: C:/Xilinx/SDK/2018.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.2
+
+
+GUI allocated memory:	135 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 598 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 70 MB (+70472kb) [00:00:07]
+// [Engine Memory]: 513 MB (+386341kb) [00:00:07]
+// TclEventType: PROJECT_OPEN_DIALOG
+// bx (ck):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\ASUS TUF\Documents\Vivado\Nano_Alts\Lower1\Lab10.xpr. Version: Vivado v2018.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// [GUI Memory]: 85 MB (+12425kb) [00:00:08]
+// [Engine Memory]: 545 MB (+6584kb) [00:00:08]
+// Tcl Message: open_project {C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1/Lab10.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// HMemoryUtils.trashcanNow. Engine heap size: 625 MB. GUI used memory: 37 MB. Current time: 5/16/25 8:39:22 AM IST
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 668 MB (+100571kb) [00:00:13]
+// [Engine Memory]: 705 MB (+3812kb) [00:00:15]
+// Tcl Message: open_project {C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1/Lab10.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'. 
+// Tcl Message: open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:09 . Memory (MB): peak = 872.379 ; gain = 182.859 
+// Project name: Lab10; location: C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower1; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// TclEventType: FILE_SET_CHANGE
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "synth_1 ; constrs_1 ; synth_design Complete! ;  ;  ;  ;  ;  ;  ;  ; 19 ; 16 ; 0.0 ; 0 ; 0 ; Fri May 16 01:03:09 IST 2025 ; 00:00:20 ; Vivado Synthesis Defaults (Vivado Synthesis 2018) ; Vivado Synthesis Default Reports (Vivado Synthesis 2018) ; xc7a35tcpg236-1 ; Vivado Synthesis Defaults", 0, (String) null, 10, true); // ax (O, ck) - Node
+// PAPropertyPanels.initPanels (synth_1) elapsed time: 0.5s
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "synth_1 ; constrs_1 ; synth_design Complete! ;  ;  ;  ;  ;  ;  ;  ; 19 ; 16 ; 0.0 ; 0 ; 0 ; Fri May 16 01:03:09 IST 2025 ; 00:00:20 ; Vivado Synthesis Defaults (Vivado Synthesis 2018) ; Vivado Synthesis Default Reports (Vivado Synthesis 2018) ; xc7a35tcpg236-1 ; Vivado Synthesis Defaults", 0, (String) null, 10, true); // ax (O, ck) - Node
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "c_addsub_0_synth_1 ; c_addsub_0 ; synth_design Complete! ;  ;  ;  ;  ;  ;  ;  ; 2 ; 0 ; 0.0 ; 0 ; 1 ; Thu May 15 00:23:48 IST 2025 ; 00:00:23 ; Vivado Synthesis Defaults (Vivado Synthesis 2018) ; Vivado Synthesis Default Reports (Vivado Synthesis 2018) ; xc7a35tcpg236-1 ; Vivado Synthesis Defaults", 3, (String) null, 10, false); // ax (O, ck)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, RCA_4(Behavioral) (RCA_4.vhd)]", 2, true); // B (D, ck) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Computer(Behavioral) (Computer.vhd)]", 1, true); // B (D, ck) - Node
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Project Manager, IP Catalog]", 4, false); // u (O, ck)
+// Run Command: PAResourceCommand.PACommandNames_CORE_GEN
+// Elapsed time: 34 seconds
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "synth_1 ; constrs_1 ; synth_design Complete! ;  ;  ;  ;  ;  ;  ;  ; 19 ; 16 ; 0.0 ; 0 ; 0 ; Fri May 16 01:03:09 IST 2025 ; 00:00:20 ; Vivado Synthesis Defaults (Vivado Synthesis 2018) ; Vivado Synthesis Default Reports (Vivado Synthesis 2018) ; xc7a35tcpg236-1 ; Vivado Synthesis Defaults", 0, (String) null, 10, true); // ax (O, ck) - Node
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "impl_1 ; constrs_1 ; write_bitstream Complete! ; 8.927661895751953 ; 0.0 ; 0.27198100090026855 ; 0.0 ; 0.0 ; 0.08365051448345184 ; 0 ; 20 ; 16 ; 0.0 ; 0 ; 1 ; Fri May 16 01:25:56 IST 2025 ; 00:00:59 ; Vivado Implementation Defaults (Vivado Implementation 2018) ; Vivado Implementation Default Reports (Vivado Implementation 2018) ; xc7a35tcpg236-1 ; Default settings for Implementation.", 1, "0.08365051448345184", 10, false); // ax (O, ck)
+// PAPropertyPanels.initPanels (impl_1) elapsed time: 0.2s
+selectTreeTable(PAResourceEtoH.ExpRunTreePanel_EXP_RUN_TREE_TABLE, "synth_1 ; constrs_1 ; synth_design Complete! ;  ;  ;  ;  ;  ;  ;  ; 19 ; 16 ; 0.0 ; 0 ; 0 ; Fri May 16 01:03:09 IST 2025 ; 00:00:20 ; Vivado Synthesis Defaults (Vivado Synthesis 2018) ; Vivado Synthesis Default Reports (Vivado Synthesis 2018) ; xc7a35tcpg236-1 ; Vivado Synthesis Defaults", 0, (String) null, 10, true); // ax (O, ck) - Node
+// [Engine Memory]: 751 MB (+11146kb) [00:01:28]
+// HMemoryUtils.trashcanNow. Engine heap size: 751 MB. GUI used memory: 52 MB. Current time: 5/16/25 8:40:43 AM IST
+// Elapsed time: 15 seconds
+selectTree(PAResourceEtoH.FlowNavigatorTreePanel_FLOW_NAVIGATOR_TREE, "[, Project Manager, IP Catalog]", 4, false); // u (O, ck)
+// Run Command: PAResourceCommand.PACommandNames_CORE_GEN
+selectTreeTable(PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, "Adder/Subtracter ;  ; Production ; Included ; xilinx.com:ip:c_addsub:12.0", 5, "Adder/Subtracter", 0, false); // O (O, ck)
+setText("PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE_SEARCH_FIELD", "ADDER"); // OverlayTextField (P, ck)
+expandTreeTable(PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, "Adder/Subtracter ;  ; Production ; Included ; xilinx.com:ip:c_addsub:12.0", 5); // O (O, ck)
+selectTreeTable(PAResourceAtoD.CoreTreeTablePanel_CORE_TREE_TABLE, "Adder/Subtracter ;  ; Production ; Included ; xilinx.com:ip:c_addsub:12.0", 5, "Adder/Subtracter", 0, false, false, false, false, false, true); // O (O, ck) - Double Click
+// Run Command: PAResourceCommand.PACommandNames_CUSTOMIZE_CORE
+// TclEventType: LOAD_FEATURE
+// l (ck):  Customize IP : addNotify
+// r (ck): Customize IP: addNotify
+dismissDialog("Customize IP"); // l (ck)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Control", 1); // cJ (C, r)
+// [GUI Memory]: 91 MB (+1984kb) [00:01:53]
+// [GUI Memory]: 96 MB (+1kb) [00:02:58]
+// Elapsed time: 877 seconds
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Basic", 0); // cJ (C, r)
+selectComboBox("Implement using (Implementation)", "DSP48", 1); // bM (C, r)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Control", 1); // cJ (C, r)
+selectCheckBox((HResource) null, "Clock Enable (CE)", false); // g (bB, r): FALSE
+selectCheckBox((HResource) null, "Carry Out (C_OUT)", true); // g (bB, r): TRUE
+selectCheckBox((HResource) null, "Carry In (C_IN)", true); // g (bB, r): TRUE
+selectCheckBox((HResource) null, "Carry Out (C_OUT)", true); // g (bB, r): TRUE
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Basic", 0); // cJ (C, r)
+selectComboBox("Add Mode (Add_Mode)", "Add Subtract", 2); // bM (C, r)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Control", 1); // cJ (C, r)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Basic", 0); // cJ (C, r)
+selectComboBox("Latency Configuration (Latency_Configuration)", "Manual", 1); // bM (C, r)
+setText("Latency", "0"); // z (cK, r)
+selectComboBox("A (A_Type)", "Unsigned", 1); // bM (C, r)
+selectComboBox("B (B_Type)", "Unsigned", 1); // bM (C, r)
+// [GUI Memory]: 104 MB (+3760kb) [00:16:43]
+setText("Output Width", "4"); // z (cK, r)
+setText("A", "4"); // z (cK, r)
+setText("B", "4"); // z (cK, r)
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Control", 1); // cJ (C, r)
+selectCheckBox((HResource) null, "Carry Out (C_OUT)", true); // g (bB, r): TRUE
+// Elapsed time: 12 seconds
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Basic", 0); // cJ (C, r)
+// Elapsed time: 16 seconds
+selectTab(PAResourceTtoZ.XPG_TabbedPane_TABBED_PANE, (HResource) null, "Control", 1); // cJ (C, r)
+// Elapsed time: 22 seconds
+dismissDialog("Customize IP"); // r (ck)
+selectButton(PAResourceCommand.PACommandNames_ADD_SOURCES, "Sources_add_sources"); // B (f, ck)
+// Run Command: PAResourceCommand.PACommandNames_ADD_SOURCES
+// c (ck): Add Sources: addNotify
+selectButton("NEXT", "Next >"); // JButton (j, c)
+selectButton(PAResourceQtoS.SrcChooserPanel_CREATE_FILE, "Create File"); // a (C, c)
+// F (c): Create Source File: addNotify
+// Elapsed time: 10 seconds
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "T_Flip_Flop"); // X (Q, F)
+// Elapsed time: 174 seconds
+setText(PAResourceAtoD.CreateSrcFileDialog_FILE_NAME, "T_FlipFlop"); // X (Q, F)

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Test_Comp_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Test_Comp" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="104816467fs"></ZoomEndTime>
+      <Cursor1Time time="20617000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="84"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/Test_Comp/ClkIn" type="logic">
+      <obj_property name="ElementShortName">ClkIn</obj_property>
+      <obj_property name="ObjectShortName">ClkIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/SC" type="logic">
+      <obj_property name="ElementShortName">SC</obj_property>
+      <obj_property name="ObjectShortName">SC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/ResetIn" type="logic">
+      <obj_property name="ElementShortName">ResetIn</obj_property>
+      <obj_property name="ObjectShortName">ResetIn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/Overflow" type="logic">
+      <obj_property name="ElementShortName">Overflow</obj_property>
+      <obj_property name="ObjectShortName">Overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/seg" type="array">
+      <obj_property name="ElementShortName">seg[6:0]</obj_property>
+      <obj_property name="ObjectShortName">seg[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/led" type="array">
+      <obj_property name="ElementShortName">led[3:0]</obj_property>
+      <obj_property name="ObjectShortName">led[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Next_Address" type="array">
+      <obj_property name="ElementShortName">Next_Address[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Next_Address[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Current_Address" type="array">
+      <obj_property name="ElementShortName">Current_Address[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Current_Address[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Selected_Address" type="array">
+      <obj_property name="ElementShortName">Selected_Address[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Selected_Address[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Instruction" type="array">
+      <obj_property name="ElementShortName">Instruction[11:0]</obj_property>
+      <obj_property name="ObjectShortName">Instruction[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Jump_Flag" type="logic">
+      <obj_property name="ElementShortName">Jump_Flag</obj_property>
+      <obj_property name="ObjectShortName">Jump_Flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/AData" type="array">
+      <obj_property name="ElementShortName">AData[3:0]</obj_property>
+      <obj_property name="ObjectShortName">AData[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/BData" type="array">
+      <obj_property name="ElementShortName">BData[3:0]</obj_property>
+      <obj_property name="ObjectShortName">BData[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Operation_Result" type="array">
+      <obj_property name="ElementShortName">Operation_Result[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Operation_Result[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/Register_Enable" type="array">
+      <obj_property name="ElementShortName">Register_Enable[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Register_Enable[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/t1" type="array">
+      <obj_property name="ElementShortName">t1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">t1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/NP1/t2" type="array">
+      <obj_property name="ElementShortName">t2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">t2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Test_Comp/uut/R7" type="array">
+      <obj_property name="ElementShortName">R7[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R7[3:0]</obj_property>
+   </wvobject>
+</wave_config>

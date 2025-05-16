@@ -1,0 +1,26 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/ASUS TUF/Documents/Vivado/Lab10/Lab10.srcs/sim_1/imports/new/TB_Decoder_3_to_8.vhd,1747063198,vhdl,,,,tb_decoder_3_to_8,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Lab10/Lab10.srcs/sim_1/new/PC_Test.vhd,1747000939,vhdl,,,,pc_test,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Lab10/Lab10.srcs/sim_1/new/Test_AU.vhd,1747043722,vhdl,,,,test_au,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Lab10/Lab10.srcs/sim_1/new/Test_ID.vhd,1747066776,vhdl,,,,test_id,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Lab10/Lab10.srcs/sim_1/new/Test_RB.vhd,1747045680,vhdl,,,,test_rb,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sim_1/new/Test_Comp.vhd,1747163188,vhdl,,,,test_comp,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/imports/new/Slow_Clk.vhd,1747163194,vhdl,,,,slow_clk,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/ip/c_addsub_0/sim/c_addsub_0.vhd,1747299098,vhdl,,,,c_addsub_0,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/AU.vhd,1747299315,vhdl,,,,au,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Computer.vhd,1747207812,vhdl,,,,computer,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Decoder_8.vhd,1747060895,vhdl,,,,decoder_8,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Display_Driver.vhd,1747207420,vhdl,,,,display_driver,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Instruction_Decoder.vhd,1747083441,vhdl,,,,instruction_decoder,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Load_Selector.vhd,1747078126,vhdl,,,,load_selector,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/MUX2.vhd,1747078935,vhdl,,,,mux2,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/MUX8.vhd,1747077987,vhdl,,,,mux8,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/NanoProcessor.vhd,1747207221,vhdl,,,,nanoprocessor,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/PC_Inc.vhd,1747031447,vhdl,,,,pc_inc,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Program_ROM.vhd,1747204546,vhdl,,,,program_rom,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Register_4bit.vhd,1747205469,vhdl,,,,register_4bit,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Register_Bank.vhd,1747205469,vhdl,,,,register_bank,,,,,,,,
+C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Level1/Lab10.srcs/sources_1/new/Register_PC.vhd,1747079369,vhdl,,,,register_pc,,,,,,,,

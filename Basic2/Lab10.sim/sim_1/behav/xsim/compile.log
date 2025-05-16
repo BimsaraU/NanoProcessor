@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Basic/Lab10.srcs/sources_1/new/Computer.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Computer
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Basic/Lab10.srcs/sources_1/new/NanoProcessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NanoProcessor
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Basic/Lab10.srcs/sources_1/new/Register_4bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_4bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Basic/Lab10.srcs/sources_1/new/Register_Bank.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Register_Bank

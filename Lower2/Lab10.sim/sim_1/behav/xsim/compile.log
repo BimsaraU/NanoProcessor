@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower2/Lab10.srcs/sources_1/new/Instruction_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Instruction_Decoder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower2/Lab10.srcs/sources_1/new/NanoProcessor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity NanoProcessor
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/ASUS TUF/Documents/Vivado/Nano_Alts/Lower2/Lab10.srcs/sources_1/new/PC_Inc_Behav.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC_Inc_Behav
